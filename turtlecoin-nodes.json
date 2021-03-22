@@ -8,6 +8,13 @@
       "cache": false
     },
     {
+      "name": "AllCoinsPool",
+      "url": "turtlecoinpool.allcoinspool.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Adam",
       "url": "175.34.176.60",
       "port": 11898,
